@@ -187,14 +187,4 @@ You can now access your installation at `http://localhost:8000` (or your server 
 
 ```
 
----
 
-### Key Improvements Made:
-1.  **Consolidated Steps:** Merged the `git` install and package updates into logical groups.
-2.  **Code Blocks:** Used \`\`\`bash for commands and \`\`\`ini for the config file to provide syntax highlighting.
-3.  **Comments:** Added comments (`#`) inside code blocks to explain what specific lines do.
-4.  **Clarity:** Clearly separated the MariaDB configuration file content from the command to open the editor.
-5.  **Variables:** Highlighted where the user needs to input their own names (like `[site-name]`) in the instructions.
-
-**Would you like me to create a script file (`install.sh`) based on this tutorial so users can automate the process?**
-```
