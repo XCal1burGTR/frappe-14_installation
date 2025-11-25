@@ -184,7 +184,7 @@ bench start
 ```
 
 You can now access your installation at `http://localhost:8000` (or your server IP).
-http://localhost:8000
-```
 
+```
+http://localhost:8000
 
